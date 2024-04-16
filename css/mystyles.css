@@ -1,0 +1,74 @@
+body{
+    background-color:lightslategrey;
+    color:aliceblue;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+h1{
+    color: whitesmoke;
+    font-size:50px;
+    text-align:center;
+    font-weight: bold;
+}
+h2{
+    color:lightcyan;
+    font-size: 20px;
+    text-align: center;
+}
+h3{
+    color:lavender;
+    font-size: 30px;
+    font-weight: bold;
+    text-align: center;
+}
+ol{
+    color:white;
+    font-size: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: left;
+    padding-left: 560px;
+}
+ul{
+    color: white;
+    font-size: 15px;
+    font-family:'Times New Roman', Times, serif
+}
+.header{
+    height: 320px;
+    top:5px;
+    right: 5px;
+    left: 5px;
+    border-bottom: solid 2px white;
+}
+.mainbody{
+    top:5px;
+    right: 5px;
+    left: 5px;
+    bottom: 5px;
+    padding-top: 15px;
+}
+.footer{
+    position: fixed;
+    right:5px;
+    left: 5px;
+    bottom: 5px;
+    height: 25px;
+    font-size: 8px;
+    text-align: center;
+    color:linen;
+    padding-top: 10px;
+}
+.link{
+    color:rgb(196, 213, 84);
+    text-decoration: underline;
+    font-size: 15px;
+}
+.link2{
+    color:rgb(199, 81, 60);
+    text-decoration: underline;
+    font-size: 15px;
+}
+.normal{
+    font-size: 8px;
+    color:linen;
+    text-decoration: none;
+}
